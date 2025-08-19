@@ -1,0 +1,10 @@
+dreammemetoken-LA/
+├── contracts/
+│   └── DMT.sol        # your token contract
+├── scripts/
+│   └── deploy-dmt.js  # deploy script
+├── hardhat.config.js  # config for networks + etherscan
+├── package.json       # project dependencies
+├── .github/
+│   └── workflows/
+│       └── deploy.yml # GitHub Action workflow
